@@ -1,8 +1,8 @@
-.avatar .distorted {
+.avatar.distorted {
    width: 200px;
    height: 400px; 
 }
-.avatar .proportioned {
+.avatar.proportioned {
     height: auto;
     width: 300px;
 }
